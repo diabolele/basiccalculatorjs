@@ -41,8 +41,8 @@ console.log(calculate(5, 10, "x"));  // Invalid operation
 Installation
 
     Clone the repository:
-
-git clone https://github.com/diabolele/basic-calculator.git
+[
+git clone https://github.com/diabolele/basiccalculatorjs
 
 Navigate into the project directory:
 
